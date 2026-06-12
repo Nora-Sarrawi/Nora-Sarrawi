@@ -1,4 +1,4 @@
-\# Nora Sarrawi
+# Nora Sarrawi
 
 Senior Computer Science student at An-Najah National University, graduating 2026.
 I build full-stack web applications, mobile apps, and data-intensive systems — focused on clean code and shipping real, working products.
